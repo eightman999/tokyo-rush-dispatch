@@ -1,0 +1,14 @@
+**
+!Dockerfile
+!.dockerignore
+!.gcloudignore
+!package.json
+!package-lock.json
+!index.html
+!server.mjs
+!src/
+!src/**
+!public/
+!public/**
+!tests/
+!tests/**
